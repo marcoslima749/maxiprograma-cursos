@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\bin\Debug\net7.0\2cubo-de-un-numero.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\bin\Debug\net7.0\2cubo-de-un-numero.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\bin\Debug\net7.0\2cubo-de-un-numero.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\bin\Debug\net7.0\2cubo-de-un-numero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\bin\Debug\net7.0\2cubo-de-un-numero.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\refint\2cubo-de-un-numero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\2cubo-de-un-numero.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\2cubo-de-un-numero\obj\Debug\net7.0\ref\2cubo-de-un-numero.dll

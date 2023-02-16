@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\bin\Debug\net7.0\1suma-dos-numeros.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\bin\Debug\net7.0\1suma-dos-numeros.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\bin\Debug\net7.0\1suma-dos-numeros.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\bin\Debug\net7.0\1suma-dos-numeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\bin\Debug\net7.0\1suma-dos-numeros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\refint\1suma-dos-numeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\1suma-dos-numeros.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\1suma-dos-numeros\obj\Debug\net7.0\ref\1suma-dos-numeros.dll

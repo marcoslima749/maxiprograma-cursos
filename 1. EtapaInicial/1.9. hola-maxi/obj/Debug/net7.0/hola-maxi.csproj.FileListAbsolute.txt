@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\bin\Debug\net7.0\hola-maxi.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\bin\Debug\net7.0\hola-maxi.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\bin\Debug\net7.0\hola-maxi.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\bin\Debug\net7.0\hola-maxi.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\bin\Debug\net7.0\hola-maxi.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\refint\hola-maxi.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\hola-maxi.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\hola-maxi\obj\Debug\net7.0\ref\hola-maxi.dll

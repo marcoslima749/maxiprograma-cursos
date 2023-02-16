@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\bin\Debug\net7.0\4.SueldoTotal.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\bin\Debug\net7.0\4.SueldoTotal.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\bin\Debug\net7.0\4.SueldoTotal.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\bin\Debug\net7.0\4.SueldoTotal.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\bin\Debug\net7.0\4.SueldoTotal.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\refint\4.SueldoTotal.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\4.SueldoTotal.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\4.SueldoTotal\obj\Debug\net7.0\ref\4.SueldoTotal.dll

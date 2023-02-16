@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\bin\Debug\net7.0\3.tiempo-para-llegar.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\bin\Debug\net7.0\3.tiempo-para-llegar.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\bin\Debug\net7.0\3.tiempo-para-llegar.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\bin\Debug\net7.0\3.tiempo-para-llegar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\bin\Debug\net7.0\3.tiempo-para-llegar.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\refint\3.tiempo-para-llegar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\3.tiempo-para-llegar.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\3.tiempo-para-llegar\obj\Debug\net7.0\ref\3.tiempo-para-llegar.dll

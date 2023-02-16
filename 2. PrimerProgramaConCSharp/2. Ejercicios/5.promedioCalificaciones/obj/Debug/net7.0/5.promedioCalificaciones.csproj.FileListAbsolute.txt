@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\bin\Debug\net7.0\5.promedioCalificaciones.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\bin\Debug\net7.0\5.promedioCalificaciones.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\bin\Debug\net7.0\5.promedioCalificaciones.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\bin\Debug\net7.0\5.promedioCalificaciones.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\bin\Debug\net7.0\5.promedioCalificaciones.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\refint\5.promedioCalificaciones.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\5.promedioCalificaciones.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\2. PrimerProgramaConCSharp\2. Ejercicios\5.promedioCalificaciones\obj\Debug\net7.0\ref\5.promedioCalificaciones.dll
