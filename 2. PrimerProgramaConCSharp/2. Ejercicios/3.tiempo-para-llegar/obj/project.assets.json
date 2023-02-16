@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marcos\\.nuget\\packages\\": {}
+    "C:\\Users\\User2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos\\Documents\\Repos\\maxiprograma\\CSharpNivelUno\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\3.tiempo-para-llegar.csproj",
+      "projectUniqueName": "C:\\Users\\User2\\Documents\\Repos\\maxiprograma-cursos\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\3.tiempo-para-llegar.csproj",
       "projectName": "3.tiempo-para-llegar",
-      "projectPath": "C:\\Users\\Marcos\\Documents\\Repos\\maxiprograma\\CSharpNivelUno\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\3.tiempo-para-llegar.csproj",
-      "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos\\Documents\\Repos\\maxiprograma\\CSharpNivelUno\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\obj\\",
+      "projectPath": "C:\\Users\\User2\\Documents\\Repos\\maxiprograma-cursos\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\3.tiempo-para-llegar.csproj",
+      "packagesPath": "C:\\Users\\User2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User2\\Documents\\Repos\\maxiprograma-cursos\\2. PrimerProgramaConCSharp\\2. Ejercicios\\3.tiempo-para-llegar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User2\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

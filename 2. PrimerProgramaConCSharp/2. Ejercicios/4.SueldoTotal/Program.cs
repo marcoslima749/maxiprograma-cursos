@@ -7,6 +7,6 @@ class Program
         Console.WriteLine("Ingrese el total facturado por el empleado");
         totalFacturado = float.Parse(Console.ReadLine());
         totalSueldo = 15000 + (totalFacturado * 5 / 100);
-        Console.WriteLine("El total a cobrar es: " + totalSueldo);
+        Console.WriteLine("El total a cobrar es: " + totalSueldo.ToString("0.00"));
     }
 }

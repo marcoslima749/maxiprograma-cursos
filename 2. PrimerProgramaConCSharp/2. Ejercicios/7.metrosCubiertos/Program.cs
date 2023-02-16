@@ -10,7 +10,7 @@ class Program
         mTotales = float.Parse(Console.ReadLine());
         mDescubiertos = mTotales - mCubiertos;
 
-        Console.WriteLine("Los metros cubiertos son: " + mCubiertos + "("+ (mCubiertos / mTotales * 100) + "%)" );
-        Console.WriteLine("Los metros descubiertos son: " + mDescubiertos + "("+ (mDescubiertos / mTotales * 100) + "%)" );
+        Console.WriteLine("Los metros cubiertos son: " + mCubiertos + " ("+ (mCubiertos / mTotales).ToString("0.00%") + ")");
+        Console.WriteLine("Los metros descubiertos son: " + mDescubiertos + " ("+ (mDescubiertos / mTotales * 100).ToString("0.00") + "%)" );
     }
 }

@@ -11,6 +11,6 @@ class Program
         Console.WriteLine("Ingrese la nota del tercer examen: ");
         nota3 = float.Parse(Console.ReadLine());
         promedio = (nota1 + nota2 + nota3) / 3;
-        Console.WriteLine("El promedio es: " + promedio);
+        Console.WriteLine("El promedio es: " + promedio.ToString("0.00"));
     }
 }
