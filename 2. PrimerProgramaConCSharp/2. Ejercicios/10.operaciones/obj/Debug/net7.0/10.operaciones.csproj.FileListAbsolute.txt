@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\bin\Debug\net7.0\10.operaciones.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\bin\Debug\net7.0\10.operaciones.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\bin\Debug\net7.0\10.operaciones.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\bin\Debug\net7.0\10.operaciones.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\bin\Debug\net7.0\10.operaciones.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\refint\10.operaciones.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\10.operaciones.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\10.operaciones\obj\Debug\net7.0\ref\10.operaciones.dll

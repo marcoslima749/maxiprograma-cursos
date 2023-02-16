@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\bin\Debug\net7.0\9.hombresYMujeres.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\bin\Debug\net7.0\9.hombresYMujeres.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\bin\Debug\net7.0\9.hombresYMujeres.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\bin\Debug\net7.0\9.hombresYMujeres.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\bin\Debug\net7.0\9.hombresYMujeres.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\refint\9.hombresYMujeres.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\9.hombresYMujeres.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\9.hombresYMujeres\obj\Debug\net7.0\ref\9.hombresYMujeres.dll

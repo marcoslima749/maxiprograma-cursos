@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\bin\Debug\net7.0\3bis.calcular-edad.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\bin\Debug\net7.0\3bis.calcular-edad.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\bin\Debug\net7.0\3bis.calcular-edad.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\bin\Debug\net7.0\3bis.calcular-edad.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\bin\Debug\net7.0\3bis.calcular-edad.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\refint\3bis.calcular-edad.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\3bis.calcular-edad.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\3bis.calcular-edad\obj\Debug\net7.0\ref\3bis.calcular-edad.dll

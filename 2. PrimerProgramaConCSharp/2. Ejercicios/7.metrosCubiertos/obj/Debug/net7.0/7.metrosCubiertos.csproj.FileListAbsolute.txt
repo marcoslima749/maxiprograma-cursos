@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\bin\Debug\net7.0\7.metrosCubiertos.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\bin\Debug\net7.0\7.metrosCubiertos.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\bin\Debug\net7.0\7.metrosCubiertos.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\bin\Debug\net7.0\7.metrosCubiertos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\bin\Debug\net7.0\7.metrosCubiertos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\refint\7.metrosCubiertos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\7.metrosCubiertos.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\7.metrosCubiertos\obj\Debug\net7.0\ref\7.metrosCubiertos.dll

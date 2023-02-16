@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\bin\Debug\net7.0\8.quinceDeDescuento.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\bin\Debug\net7.0\8.quinceDeDescuento.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\bin\Debug\net7.0\8.quinceDeDescuento.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\bin\Debug\net7.0\8.quinceDeDescuento.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\bin\Debug\net7.0\8.quinceDeDescuento.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\refint\8.quinceDeDescuento.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\8.quinceDeDescuento.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\2. PrimerProgramaConCSharp\2. Ejercicios\8.quinceDeDescuento\obj\Debug\net7.0\ref\8.quinceDeDescuento.dll
