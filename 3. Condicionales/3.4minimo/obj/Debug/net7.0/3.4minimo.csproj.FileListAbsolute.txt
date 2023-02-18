@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\bin\Debug\net7.0\3.4minimo.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\bin\Debug\net7.0\3.4minimo.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\bin\Debug\net7.0\3.4minimo.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\bin\Debug\net7.0\3.4minimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\bin\Debug\net7.0\3.4minimo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\refint\3.4minimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\3.4minimo.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.4minimo\obj\Debug\net7.0\ref\3.4minimo.dll

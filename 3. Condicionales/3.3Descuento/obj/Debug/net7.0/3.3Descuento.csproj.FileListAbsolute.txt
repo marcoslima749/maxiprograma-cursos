@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\bin\Debug\net7.0\3.3Descuento.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\bin\Debug\net7.0\3.3Descuento.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\bin\Debug\net7.0\3.3Descuento.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\bin\Debug\net7.0\3.3Descuento.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\bin\Debug\net7.0\3.3Descuento.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\refint\3.3Descuento.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\3.3Descuento.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.3Descuento\obj\Debug\net7.0\ref\3.3Descuento.dll

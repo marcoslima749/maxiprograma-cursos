@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\bin\Debug\net7.0\3.5mayorACien.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\bin\Debug\net7.0\3.5mayorACien.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\bin\Debug\net7.0\3.5mayorACien.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\bin\Debug\net7.0\3.5mayorACien.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\bin\Debug\net7.0\3.5mayorACien.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\refint\3.5mayorACien.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\3.5mayorACien.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.5mayorACien\obj\Debug\net7.0\ref\3.5mayorACien.dll

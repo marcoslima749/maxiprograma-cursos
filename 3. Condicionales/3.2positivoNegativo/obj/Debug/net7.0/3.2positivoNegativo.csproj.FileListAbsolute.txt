@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\bin\Debug\net7.0\3.2positivoNegativo.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\bin\Debug\net7.0\3.2positivoNegativo.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\bin\Debug\net7.0\3.2positivoNegativo.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\bin\Debug\net7.0\3.2positivoNegativo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\bin\Debug\net7.0\3.2positivoNegativo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\refint\3.2positivoNegativo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\3.2positivoNegativo.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.2positivoNegativo\obj\Debug\net7.0\ref\3.2positivoNegativo.dll

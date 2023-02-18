@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\bin\Debug\net7.0\3.1mayorADiez.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\bin\Debug\net7.0\3.1mayorADiez.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\bin\Debug\net7.0\3.1mayorADiez.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\bin\Debug\net7.0\3.1mayorADiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\bin\Debug\net7.0\3.1mayorADiez.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\refint\3.1mayorADiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\3.1mayorADiez.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\3. Condicionales\3.1mayorADiez\obj\Debug\net7.0\ref\3.1mayorADiez.dll
