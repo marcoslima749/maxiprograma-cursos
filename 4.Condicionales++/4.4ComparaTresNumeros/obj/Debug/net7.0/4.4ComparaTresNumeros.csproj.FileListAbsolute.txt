@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\bin\Debug\net7.0\4.4ComparaTresNumeros.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\bin\Debug\net7.0\4.4ComparaTresNumeros.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\bin\Debug\net7.0\4.4ComparaTresNumeros.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\bin\Debug\net7.0\4.4ComparaTresNumeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\bin\Debug\net7.0\4.4ComparaTresNumeros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\refint\4.4ComparaTresNumeros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\4.4ComparaTresNumeros.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.4ComparaTresNumeros\obj\Debug\net7.0\ref\4.4ComparaTresNumeros.dll

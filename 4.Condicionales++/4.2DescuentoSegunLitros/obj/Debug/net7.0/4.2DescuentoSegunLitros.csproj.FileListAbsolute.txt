@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\bin\Debug\net7.0\4.2DescuentoSegunLitros.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\bin\Debug\net7.0\4.2DescuentoSegunLitros.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\bin\Debug\net7.0\4.2DescuentoSegunLitros.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\bin\Debug\net7.0\4.2DescuentoSegunLitros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\bin\Debug\net7.0\4.2DescuentoSegunLitros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\refint\4.2DescuentoSegunLitros.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\4.2DescuentoSegunLitros.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.2DescuentoSegunLitros\obj\Debug\net7.0\ref\4.2DescuentoSegunLitros.dll

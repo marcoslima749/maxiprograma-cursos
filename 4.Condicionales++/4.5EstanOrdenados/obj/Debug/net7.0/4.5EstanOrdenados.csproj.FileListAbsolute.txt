@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\bin\Debug\net7.0\4.5EstanOrdenados.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\bin\Debug\net7.0\4.5EstanOrdenados.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\bin\Debug\net7.0\4.5EstanOrdenados.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\bin\Debug\net7.0\4.5EstanOrdenados.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\bin\Debug\net7.0\4.5EstanOrdenados.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\refint\4.5EstanOrdenados.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\4.5EstanOrdenados.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.5EstanOrdenados\obj\Debug\net7.0\ref\4.5EstanOrdenados.dll

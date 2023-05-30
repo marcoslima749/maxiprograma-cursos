@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\bin\Debug\net7.0\4.3CompraPC.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\bin\Debug\net7.0\4.3CompraPC.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\bin\Debug\net7.0\4.3CompraPC.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\bin\Debug\net7.0\4.3CompraPC.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\bin\Debug\net7.0\4.3CompraPC.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\refint\4.3CompraPC.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\4.3CompraPC.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.3CompraPC\obj\Debug\net7.0\ref\4.3CompraPC.dll

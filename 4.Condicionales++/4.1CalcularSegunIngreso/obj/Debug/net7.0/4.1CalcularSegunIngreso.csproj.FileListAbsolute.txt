@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\bin\Debug\net7.0\4.1CalcularSegunIngreso.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\bin\Debug\net7.0\4.1CalcularSegunIngreso.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\bin\Debug\net7.0\4.1CalcularSegunIngreso.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\bin\Debug\net7.0\4.1CalcularSegunIngreso.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\bin\Debug\net7.0\4.1CalcularSegunIngreso.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\refint\4.1CalcularSegunIngreso.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\4.1CalcularSegunIngreso.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\4.Condicionales++\4.1CalcularSegunIngreso\obj\Debug\net7.0\ref\4.1CalcularSegunIngreso.dll
