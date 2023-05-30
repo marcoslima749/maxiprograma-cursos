@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\bin\Debug\net7.0\1.NumerosUnoAlDiez.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\bin\Debug\net7.0\1.NumerosUnoAlDiez.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\bin\Debug\net7.0\1.NumerosUnoAlDiez.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\bin\Debug\net7.0\1.NumerosUnoAlDiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\bin\Debug\net7.0\1.NumerosUnoAlDiez.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\refint\1.NumerosUnoAlDiez.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\1.NumerosUnoAlDiez.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\1.NumerosUnoAlDiez\obj\Debug\net7.0\ref\1.NumerosUnoAlDiez.dll

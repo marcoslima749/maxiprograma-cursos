@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\bin\Debug\net7.0\5.4EsPrimo.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\bin\Debug\net7.0\5.4EsPrimo.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\bin\Debug\net7.0\5.4EsPrimo.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\bin\Debug\net7.0\5.4EsPrimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\bin\Debug\net7.0\5.4EsPrimo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\refint\5.4EsPrimo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\5.4EsPrimo.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.4EsPrimo\obj\Debug\net7.0\ref\5.4EsPrimo.dll

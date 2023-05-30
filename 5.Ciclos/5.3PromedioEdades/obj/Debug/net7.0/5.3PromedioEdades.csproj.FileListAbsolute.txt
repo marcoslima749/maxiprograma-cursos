@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\bin\Debug\net7.0\5.3PromedioEdades.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\bin\Debug\net7.0\5.3PromedioEdades.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\bin\Debug\net7.0\5.3PromedioEdades.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\bin\Debug\net7.0\5.3PromedioEdades.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\bin\Debug\net7.0\5.3PromedioEdades.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\refint\5.3PromedioEdades.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\5.3PromedioEdades.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.3PromedioEdades\obj\Debug\net7.0\ref\5.3PromedioEdades.dll

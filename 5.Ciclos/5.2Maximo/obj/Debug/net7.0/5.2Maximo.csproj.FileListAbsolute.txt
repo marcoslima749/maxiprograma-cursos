@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\bin\Debug\net7.0\5.2Maximo.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\bin\Debug\net7.0\5.2Maximo.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\bin\Debug\net7.0\5.2Maximo.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\bin\Debug\net7.0\5.2Maximo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\bin\Debug\net7.0\5.2Maximo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\refint\5.2Maximo.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\5.2Maximo.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.2Maximo\obj\Debug\net7.0\ref\5.2Maximo.dll
