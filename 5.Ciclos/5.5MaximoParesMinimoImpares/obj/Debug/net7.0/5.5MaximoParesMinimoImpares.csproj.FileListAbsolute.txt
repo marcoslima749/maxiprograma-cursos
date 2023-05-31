@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\bin\Debug\net7.0\5.5MaximoParesMinimoImpares.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\bin\Debug\net7.0\5.5MaximoParesMinimoImpares.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\bin\Debug\net7.0\5.5MaximoParesMinimoImpares.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\bin\Debug\net7.0\5.5MaximoParesMinimoImpares.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\bin\Debug\net7.0\5.5MaximoParesMinimoImpares.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\refint\5.5MaximoParesMinimoImpares.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\5.5MaximoParesMinimoImpares.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\5.Ciclos\5.5MaximoParesMinimoImpares\obj\Debug\net7.0\ref\5.5MaximoParesMinimoImpares.dll
