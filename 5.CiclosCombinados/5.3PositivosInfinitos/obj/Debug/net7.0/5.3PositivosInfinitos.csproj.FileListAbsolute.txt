@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\bin\Debug\net7.0\5.3PositivosInfinitos.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\bin\Debug\net7.0\5.3PositivosInfinitos.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\bin\Debug\net7.0\5.3PositivosInfinitos.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\bin\Debug\net7.0\5.3PositivosInfinitos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\bin\Debug\net7.0\5.3PositivosInfinitos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\refint\5.3PositivosInfinitos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\5.3PositivosInfinitos.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.3PositivosInfinitos\obj\Debug\net7.0\ref\5.3PositivosInfinitos.dll

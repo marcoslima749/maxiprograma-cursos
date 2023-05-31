@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\bin\Debug\net7.0\5.2CincoGrupos.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\bin\Debug\net7.0\5.2CincoGrupos.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\bin\Debug\net7.0\5.2CincoGrupos.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\bin\Debug\net7.0\5.2CincoGrupos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\bin\Debug\net7.0\5.2CincoGrupos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\refint\5.2CincoGrupos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\5.2CincoGrupos.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.2CincoGrupos\obj\Debug\net7.0\ref\5.2CincoGrupos.dll

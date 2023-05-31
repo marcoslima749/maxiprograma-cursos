@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\bin\Debug\net7.0\5.1DiezPrimos.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\bin\Debug\net7.0\5.1DiezPrimos.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\bin\Debug\net7.0\5.1DiezPrimos.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\bin\Debug\net7.0\5.1DiezPrimos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\bin\Debug\net7.0\5.1DiezPrimos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\refint\5.1DiezPrimos.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\5.1DiezPrimos.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\5.CiclosCombinados\5.1DiezPrimos\obj\Debug\net7.0\ref\5.1DiezPrimos.dll
