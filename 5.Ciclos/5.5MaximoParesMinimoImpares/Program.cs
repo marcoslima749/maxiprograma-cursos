@@ -12,17 +12,23 @@ class Program
         int c = 0;
         int maximoPares = 0;
         int minimoImpares = 0;
+        int pares = 0;
+        int impares = 0;
 
         while (c<20)
         {
             Console.WriteLine("Ingrese un número:");
             int numero = int.Parse(Console.ReadLine());
             if(numero % 2 == 0) {
-                if(c == 0 ||  numero > maximoPares)
+                if(pares == 0 ||  numero > maximoPares) {
                     maximoPares = numero;
+                    pares = 1;
+                }
             } else {
-                if(c == 0 || numero < minimoImpares)
+                if(impares == 0 || numero < minimoImpares) {
                     minimoImpares = numero;
+                    impares = 1;
+                }
             }
 
             c++;
