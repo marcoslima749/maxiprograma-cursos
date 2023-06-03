@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\bin\Debug\net7.0\7.2PromedioVector.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\bin\Debug\net7.0\7.2PromedioVector.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\bin\Debug\net7.0\7.2PromedioVector.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\bin\Debug\net7.0\7.2PromedioVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\bin\Debug\net7.0\7.2PromedioVector.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\refint\7.2PromedioVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\7.2PromedioVector.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.2PromedioVector\obj\Debug\net7.0\ref\7.2PromedioVector.dll

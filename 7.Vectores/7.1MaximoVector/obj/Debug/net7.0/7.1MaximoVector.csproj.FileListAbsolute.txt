@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\bin\Debug\net7.0\7.1MaximoVector.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\bin\Debug\net7.0\7.1MaximoVector.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\bin\Debug\net7.0\7.1MaximoVector.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\bin\Debug\net7.0\7.1MaximoVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\bin\Debug\net7.0\7.1MaximoVector.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\refint\7.1MaximoVector.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\7.1MaximoVector.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.1MaximoVector\obj\Debug\net7.0\ref\7.1MaximoVector.dll

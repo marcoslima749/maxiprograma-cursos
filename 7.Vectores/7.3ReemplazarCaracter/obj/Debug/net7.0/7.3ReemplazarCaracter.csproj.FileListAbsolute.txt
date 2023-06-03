@@ -1,0 +1,15 @@
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.csproj.AssemblyReference.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.AssemblyInfoInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.AssemblyInfo.cs
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.csproj.CoreCompileInputs.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\bin\Debug\net7.0\7.3ReemplazarCaracter.exe
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\bin\Debug\net7.0\7.3ReemplazarCaracter.deps.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\bin\Debug\net7.0\7.3ReemplazarCaracter.runtimeconfig.json
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\bin\Debug\net7.0\7.3ReemplazarCaracter.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\bin\Debug\net7.0\7.3ReemplazarCaracter.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\refint\7.3ReemplazarCaracter.dll
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.pdb
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\7.3ReemplazarCaracter.genruntimeconfig.cache
+C:\Users\User2\Documents\Repos\maxiprograma-cursos\7.Vectores\7.3ReemplazarCaracter\obj\Debug\net7.0\ref\7.3ReemplazarCaracter.dll
