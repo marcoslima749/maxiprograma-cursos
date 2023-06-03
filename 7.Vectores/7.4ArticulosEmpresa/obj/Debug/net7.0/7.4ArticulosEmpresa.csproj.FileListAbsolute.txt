@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\bin\Debug\net7.0\7.4ArticulosEmpresa.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\bin\Debug\net7.0\7.4ArticulosEmpresa.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\bin\Debug\net7.0\7.4ArticulosEmpresa.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\bin\Debug\net7.0\7.4ArticulosEmpresa.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\bin\Debug\net7.0\7.4ArticulosEmpresa.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\refint\7.4ArticulosEmpresa.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\7.4ArticulosEmpresa.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\7.Vectores\7.4ArticulosEmpresa\obj\Debug\net7.0\ref\7.4ArticulosEmpresa.dll
