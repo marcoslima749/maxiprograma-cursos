@@ -40,7 +40,7 @@ class Program
 
         }
 
-        Console.WriteLine("El ingreso de registros ha terminado.\nEl artículo más vendido es el artículo número " + (masVendido + 1) + " con " + maximoVentas + " ventas." );
+        Console.WriteLine("El ingreso de registros ha terminado.\nEl artículo más vendido es el artículo número " + (masVendido + 1) + " con " + maximoVentas + "  ventas." );
         Console.WriteLine("Los articulos que no se vendieron son:");
         for (int i = 0; i < 15; i++)
         {

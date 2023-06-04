@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\bin\Debug\net7.0\8.1Producto.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\bin\Debug\net7.0\8.1Producto.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\bin\Debug\net7.0\8.1Producto.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\bin\Debug\net7.0\8.1Producto.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\bin\Debug\net7.0\8.1Producto.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\refint\8.1Producto.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\8.1Producto.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.1Producto\obj\Debug\net7.0\ref\8.1Producto.dll

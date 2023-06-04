@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\bin\Debug\net7.0\8.3LotePrimos.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\bin\Debug\net7.0\8.3LotePrimos.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\bin\Debug\net7.0\8.3LotePrimos.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\bin\Debug\net7.0\8.3LotePrimos.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\bin\Debug\net7.0\8.3LotePrimos.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\refint\8.3LotePrimos.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\8.3LotePrimos.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.3LotePrimos\obj\Debug\net7.0\ref\8.3LotePrimos.dll

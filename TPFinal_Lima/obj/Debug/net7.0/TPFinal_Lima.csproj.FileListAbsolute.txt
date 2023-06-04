@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\bin\Debug\net7.0\TPFinal_Lima.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\bin\Debug\net7.0\TPFinal_Lima.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\bin\Debug\net7.0\TPFinal_Lima.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\bin\Debug\net7.0\TPFinal_Lima.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\bin\Debug\net7.0\TPFinal_Lima.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\refint\TPFinal_Lima.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\TPFinal_Lima.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\TPFinal_Lima\obj\Debug\net7.0\ref\TPFinal_Lima.dll

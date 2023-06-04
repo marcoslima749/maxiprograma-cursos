@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\bin\Debug\net7.0\8.4PositivoNegativoCero.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\bin\Debug\net7.0\8.4PositivoNegativoCero.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\bin\Debug\net7.0\8.4PositivoNegativoCero.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\bin\Debug\net7.0\8.4PositivoNegativoCero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\bin\Debug\net7.0\8.4PositivoNegativoCero.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\refint\8.4PositivoNegativoCero.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\8.4PositivoNegativoCero.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.4PositivoNegativoCero\obj\Debug\net7.0\ref\8.4PositivoNegativoCero.dll

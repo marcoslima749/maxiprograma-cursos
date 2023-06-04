@@ -1,0 +1,15 @@
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.csproj.AssemblyReference.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.AssemblyInfo.cs
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\bin\Debug\net7.0\8.2VeinteParImpar.exe
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\bin\Debug\net7.0\8.2VeinteParImpar.deps.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\bin\Debug\net7.0\8.2VeinteParImpar.runtimeconfig.json
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\bin\Debug\net7.0\8.2VeinteParImpar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\bin\Debug\net7.0\8.2VeinteParImpar.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\refint\8.2VeinteParImpar.dll
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.pdb
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\8.2VeinteParImpar.genruntimeconfig.cache
+C:\Users\Marcos\Documents\Repos\maxiprograma\CSharpNivelUno\8.Funciones\8.2VeinteParImpar\obj\Debug\net7.0\ref\8.2VeinteParImpar.dll
